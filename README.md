@@ -9,7 +9,7 @@ cleans the data where there is any null value, and use the clensed data to plot
 
 1) precipitation analysis
 * precipitation during last year.
-![precipitation](https://github.com/EmilySakata/climate_analysis/img/bar.png)
+![precipitation](climate_analysis/img/bar.png)
 
 2) station analysis
 3) temperature analysis
